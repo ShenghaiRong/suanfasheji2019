@@ -28,6 +28,6 @@ TBD
  | 张燚鑫 | zhyx12@mail.ustc.edu.cn | 科技楼西楼917
  | 容圣海| rsh914@mail.ustc.edu.cn | 科技楼西楼917
  | 夏鹏飞| xpengfei@mail.ustc.edu.cn | 电二楼308
- | 尹瑾 | 2487573411@qq.com | 科技楼西楼915
+ | 尹瑾 | 2487573411@qq.com | 电二楼308
 
 
