@@ -40,7 +40,7 @@
 	--code.file
 	--readme #说明程序运行所需要的环境以及如何运行
 	--第n次编程作业报告.doc
-	
+
 
 ### 编程作业报告格式：
 
@@ -65,6 +65,6 @@
  | 张燚鑫 | zhyx12@mail.ustc.edu.cn | 科技楼西楼917
  | 容圣海| rsh914@mail.ustc.edu.cn | 科技楼西楼917
  | 夏鹏飞| xpengfei@mail.ustc.edu.cn | 电二楼308
- | 尹瑾 | 2487573411@qq.com | 电二楼308
+ | 尹瑾 | yinjin@mail.ustc.edu.cn | 电二楼308
 
 
